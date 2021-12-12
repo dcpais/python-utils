@@ -1,10 +1,8 @@
-"""
---------------------------
-Geometry utility functions
---------------------------
-"""
 import math
 from typing import Tuple
+"""
+Geometry utility functions
+"""
 
 def circle_area(radius: int | float) -> float:
     """ Returns the area of a 2D circle """

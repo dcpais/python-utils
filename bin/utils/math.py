@@ -1,4 +1,3 @@
-
 from functools import reduce, lru_cache
 from math import gcd
 from typing import Dict, Iterable, List, Tuple, TypeVar
